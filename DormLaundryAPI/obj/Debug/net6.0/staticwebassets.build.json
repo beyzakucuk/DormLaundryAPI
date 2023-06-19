@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E1XIJKbz4DNI/reBsyzhHOG6pZK5TvMWLn9FM/t5p3w=",
+  "Source": "DormLaundryAPI",
+  "BasePath": "_content/DormLaundryAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
